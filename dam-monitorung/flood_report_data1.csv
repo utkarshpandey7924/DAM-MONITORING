@@ -1,0 +1,58 @@
+﻿S.No.,Name of the Reservoir,District,Authorised Person,contact No.,LSL in Meter,FRL in Meter,Water Level in meter,,,,,,,,Rainfall in mm,
+,,,,,,,Yesterday (24/08/2024),,,,Today (25/08/2024),,,,Daily,Total
+,,,,,,,8:00 AM,12:00 PM,4:00 PM,8:00 PM,8:00 AM,12:00 PM,4:00 PM,8:00 PM,,
+1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17
+1,Aoda Tank,Sheopur,R.N. Sharma,9826275463,335.28,348.23,1142.5,-,-,-,-,-,-,-,-,-
+2,Bansagar Dam,Shahdol,R.P.S. Kunwar,9424634890,323.1,341.64,339.64,-,-,-,-,-,-,-,-,-
+3,Bansujara Major Project,Tikamgarh,Deependra Singh Kushwah,9294629462,302.5,316.5,315.2,-,-,-,-,-,-,-,-,-
+4,Barna Dam,Raisen,Ajay Verma,9425027487,338.1,348.55,347.78,-,-,-,-,-,-,-,-,-
+5,Bawanthadi (Rajiv Sagar),Balaghat,Damodar Wadiwe,7610252881,333.5,344.4,343.7,-,-,-,-,-,-,-,-,-
+6,Bilgaon Medium Project,Dindori,Amardeep Tripathi,9893486302,690.5,701,-,-,-,-,-,-,-,-,-,-
+7,Dahod Tank,Raisen,Pratibha Singh,9993795775,453.54,459.94,459.27,-,-,-,-,-,-,-,-,-
+8,Dejla Dewda Tank,Khargone,P.K. Brahmne,9826379910,369.56,383.2,383.2,-,-,-,-,-,-,-,-,-
+9,Dholawad Tank,Ratlam,Nripendra Dev,9406607957,380,395,392.3,-,-,-,-,-,-,-,-,-
+10,Gandhisagar Dam,Mandsaure,K.L. Kachhawa,9425415347,381,399.9,396.42,-,-,-,-,-,-,-,-,-
+11,Gopikrishn Sagar,Guna,Kuldeep Solanki,9669671836,421,434,433.32,-,-,-,-,-,-,-,-,-
+12,Harsi Dam,Gwalior,Agniwesh Singh,9399865628,252.07,264.93,870,-,-,-,-,-,-,-,-,-
+13,Indira Sagar Project,Khandwa,Control Room,9630701352,245.13,262.13,-,-,-,-,-,-,-,-,-,-
+14,Kaka Sahab gadagil sagar Project,Mandsaure,Vijendra Singh Dodwe,8349388616,456.3,460.8,-,-,-,-,-,-,-,-,-,-
+15,Kaketo Dam,Gwalior,Agniwesh Singh,9399865628,320.19,342.75,1124.95,-,-,-,-,-,-,-,-,-
+16,Kaliasote Dam,Bhopal,Nitin kuhikar,6260214739,486.16,505.67,-,-,-,-,-,-,-,-,-,-
+17,Kerwan Dam,Bhopal,Nitin kuhikar,6260214739,500.79,509.93,1673,-,-,-,-,-,-,-,-,-
+18,Kolar Dam,Sehore,Harsha Jainwal,9893174470,432.93,462.2,460.65,-,-,-,-,-,-,-,-,-
+19,Kotwal Tank,Morena,Anjhul Dohre,7566648111,164.66,168.4,-,-,-,-,-,-,-,-,-,-
+20,Kundalia Major Project,Rajgarh,Garima Agrawal,9827711761,380,400,398.65,-,398.85,398.95,-,-,-,-,-,-
+21,Kunwar Chain Sagar,Rajgarh,Bhupendra Singh,9424587357,446.28,450.78,450.55,-,-,-,-,-,-,-,-,-
+22,Kushalpura Dam,Rajgarh,Garima Agrawal,9827711761,415.6,418.9,418.5,-,-,-,-,-,-,-,-,-
+23,Kutni Dam,Chhatarpur,Ashish Malviya,9893052965,191.45,203.5,194.85,-,-,-,-,-,-,-,-,-
+24,Madikheda Dam,Shivpuri,Manoher borate,9893715698,320.05,346.25,343.35,-,343.25,343.35,-,-,-,-,-,-
+25,Mahan Dam,Sidhi,P.K. Tripathi,8770704964,307,325,-,-,-,-,-,-,-,-,-,-
+26,Mahi Main Dam,Jhabua,Vipin Patidar,9827500617,441,451.5,-,-,-,-,-,-,-,-,-,-
+27,Mahi Subsidiary Dam,Dhar,Vipin Patidar,9827500617,467.17,474.3,473.8,-,-,-,-,-,-,-,-,-
+28,Mahuar Dam,Shivpuri,V.K. Sharma,6260457737,317,331,-,-,-,-,-,-,-,-,-,-
+29,Matiyari Dam,Mandla,C.S. Dhurve,9424340354,484,497.43,495.41,-,-,-,-,-,-,-,-,-
+30,Mohanpura Multipurpose Project,Rajgarh,Ashok Dixit,7771813350,377.05,398,396.8,-,-,396.9,-,-,-,-,-,-
+31,Mohini Pick up Weir,Shivpuri,Jitendra Yadav,7898397139,263.95,276.25,-,-,-,-,-,-,-,-,-,-
+32,Omkareshwar Project,Khandwa,Control Room,7280271735,193.54,196.6,194.88,-,194.94,195.01,-,-,-,-,-,-
+33,Pagara Tank,Morena,Rahul Yadav,8839731485,182.88,199.34,199.13,-,-,-,-,-,-,-,-,-
+34,Pagra Tank (Feeder),Sagar,Pushpendra Singh,9826639019,433.04,445.02,443.8,-,-,-,-,-,-,-,-,-
+35,Parasdoh Tank,Betul,Vipin Vamankar,9589254443,623.85,639.1,638.18,-,-,-,-,-,-,-,-,-
+36,Pawai Medium Irrigation Project,Panna,Sudhir Sharma,9425535452,330,340.5,-,-,-,-,-,-,-,-,-,-
+37,Pehsari Dam,Gwalior,Agniwesh Singh,9399865628,324.61,334.37,333.79,-,-,-,-,-,-,-,-,-
+38,Pench Diversion,Chindwara,Sant Kumar Sirsam,9752703025,613.4,625.75,-,-,-,-,-,-,-,-,-,-
+39,Rajghat Dam,Ashoknagar,J. S. Bhadoriya,8528231695,356.62,371,-,-,-,-,-,-,-,-,-,-
+40,Rangawan Dam,Chhatarpur,Ashish Malviya,9893052965,219.76,233.17,222.96,222.96,-,-,-,-,-,-,-,-
+41,Rani Awanti Bai Sagar (Bargi),Jabalpur,Ajay Sure,9425411335,403.5,422.76,-,-,-,-,-,-,-,-,-,-
+42,Retam Barrage,Mandsaure,Vijendra Singh Dodwe,8349388616,424,428.5,-,-,-,-,-,-,-,-,-,-
+43,Sagad Dam,Vidisha,Priyanka Bhandhari,9424472525,448.05,455.64,452.6,-,-,-,-,-,-,-,-,-
+44,Samrat Ashok Sagar (Halali),Vidisha,Ramesh Chouhan,9754893947,448.95,459.61,459.58,-,-,-,-,-,-,-,-,-
+45,Sanjay Sagar(Bah) Project,Vidisha,Priyanka Bhandhari,9424472525,440.5,448.2,447.64,-,-,-,-,-,-,-,-,-
+46,Singhpur Barrage,Chhatarpur,Ashish Malviya,9893052965,201.98,209.2,203.8,-,-,-,-,-,-,-,-,-
+47,Sukta Tank,Khandwa,Neelam Neel,8719099323,399.59,410.57,409.96,-,-,-,-,-,-,-,-,-
+48,Tawa Dam,Narmadapuram,V. K. Jain,9713063506,336.8,355.4,-,-,-,-,-,-,-,-,-,-
+49,Thanwar Dam,Mandla,Chandrashekhar,9424340354,470,481.1,480.67,-,-,-,-,-,-,-,-,-
+50,Tigra Dam,Gwalior,Pankaj Sengar,7509866417,211.84,225.55,223.94,-,-,-,-,-,-,-,-,-
+51,Tillar,Shajapur,T.K.Parmaar,9575205244,432,439.9,439.9,-,-,-,-,-,-,-,-,-
+52,Upper Kaketo Dam,Sheopur,Agniwesh Singh,9399865628,363,370,368.7,-,-,-,-,-,-,-,-,-
+53,Urmil Dam,Chhatarpur,Ashish Malviya,9893052965,228.29,237.43,229.6,-,-,-,-,-,-,-,-,-
+54,Wainganga (Sanjay Sarovar),Seoni,Sudesh Uikey,8319445781,506.27,519.38,517.3,-,-,-,-,-,-,-,-,-
